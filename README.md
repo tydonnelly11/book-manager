@@ -3,7 +3,7 @@
 ## Overview
 The Book Manager is a database-driven application designed to manage a collection of books and their associated publishers. It offers functionality to add, edit, delete, and search for books using various criteria. This project utilizes a MySQL database to store book and publisher information and features a user-friendly text-based interface.
 
-## Functional Requirements
+## Features
 - **Add a New Publisher:** Users can add publishers with details such as name, phone number, and city.
 - **Add a New Book:** Users can add books with details including ISBN, title, year, publisher, previous edition, and price.
 - **Edit an Existing Book:** Books already in the database can be edited.
